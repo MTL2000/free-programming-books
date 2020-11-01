@@ -87,6 +87,9 @@ Please read [CONTRIBUTING](/CONTRIBUTING.md). If you're new to GitHub, [welcome]
 + [Ukrainian / Українська](free-courses-ua.md)
 + [Vietnamese / Tiếng Việt](free-courses-vi.md)
 
+### Programming Learning Notes
+
++ [English](programming-learning-notes-en.md)
 
 ### Interactive Programming Resources
 
