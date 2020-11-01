@@ -4,6 +4,7 @@
 * [Cloud Computing](#cloud-computing)
 * [Git](#git)
 * [HTML / CSS](#html--css)
+  * [Bootstrap](#bootstrap)
 * [Java](#java)
   * [Spring](#spring)
   * [SpringBoot](#springboot)
@@ -12,6 +13,8 @@
   * [Spring Security](#spring-security)  
 * [JavaScript](#javascript)
   * [Angular.js](#angularjs)
+  * [JQuery](#jquery)
+  * [React](#react)
 * [Node](#node)
 * [NoSQL](#nosql)
 * [SQL](#sql)
@@ -53,6 +56,9 @@
 * [Learn HTML & CSS interactively](https://www.codecademy.com/learn/web)
 * [Prototyping a professional website](https://www.codecademy.com/learn/make-a-website)
 
+#### Bootstrap
+
+* [Front End Libraries: Bootstrap](https://www.freecodecamp.org/learn/front-end-libraries/bootstrap)
 
 ### Java
 
@@ -100,11 +106,6 @@
 * [AngularJS - Step by Logical Step](http://nicholasjohnson.com/angular-book/)
 * [egghead.io: Learn AngularJS with Tutorial Videos & Training](https://egghead.io)
 * [Learn AngularJS with free interactive lessons](http://www.learn-angular.org)
-
-
-#### Bootstrap
-
-* [Front End Libraries: Bootstrap](https://www.freecodecamp.org/learn/front-end-libraries/bootstrap)
 
 
 #### jQuery
