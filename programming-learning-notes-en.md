@@ -6,7 +6,10 @@
 * [HTML / CSS](#html--css)
 * [Java](#java)
   * [Spring](#spring)
-   * [SpringBoot](#springboot)
+  * [SpringBoot](#springboot)
+  * [Spring Cloud](#springcloud)
+  * [Spring Data](#springdata)
+  * [Spring Security](#springsecurity)  
 * [JavaScript](#javascript)
   * [Angular.js](#angularjs)
 * [Node](#node)
@@ -66,6 +69,12 @@
 
 
 ##### SpringBoot
+
+##### Spring Cloud
+
+##### Spring Data
+
+##### Spring Security
 
 
 ### JavaScript
