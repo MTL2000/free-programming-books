@@ -8,7 +8,7 @@
 * [Java](#java)
   * [Spring](#spring)
   * [SpringBoot](#springboot)
-  * [Spring JPA](#springjpa)
+  * [Spring JPA](#spring-jpa)
   * [Spring Cloud](#spring-cloud)
   * [Spring Data](#spring-data)
   * [Spring Security](#spring-security)  
