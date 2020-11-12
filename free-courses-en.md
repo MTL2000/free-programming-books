@@ -24,6 +24,7 @@
 * [HTML / CSS](#html--css)
 * [iOS](#ios)
 * [Java](#java)
+  * [Spring](#spring)
 * [JavaScript](#javascript)
   * [Angular.js](#angularjs)
   * [DenoJS](#denojs)
@@ -314,8 +315,10 @@
 * [Object-Oriented programming with Java, part II](https://moocfi.github.io/courses/2013/programming-part-2/)
 * [Princeton Algorithms, Part 1](https://www.coursera.org/course/algs4partI)
 * [Problem Solving With Java](https://www.udacity.com/course/intro-to-java-programming--cs046) (Udacity)
-* [Spring 5 Core - An Ultimate Guide](https://www.udemy.com/learn-spring-5-core-from-scratch/) - Somnath Musib (Udemy)
 
+#### Spring
+
+* [Spring 5 Core - An Ultimate Guide](https://www.udemy.com/learn-spring-5-core-from-scratch/) - Somnath Musib (Udemy)
 
 ### JavaScript
 
