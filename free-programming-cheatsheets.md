@@ -4,6 +4,7 @@
 * [C++](#c-1)
 * [Clojure](#clojure)
 * [Data Science](#data-science)
+* [Elasticsearch](#elasticsearch)
 * [Git](#git)
 * [HTML / CSS](#html--css)
 * [Java](#Java)
@@ -15,7 +16,6 @@
 * [Markdown](#markdown)
 * [MongoDB](#mongodb)
 * [Python](#python)
-* [Ruby](#ruby)
 * [SQL](#sql)
 
 
@@ -37,6 +37,11 @@
 ### Data Science
 
 * [Cheatsheets for Data Scientists](https://www.datacamp.com/community/data-science-cheatsheets) - Datacamp (PDF)
+
+
+### Elasticsearch
+
+* [Elasticsearch Cheat Sheet](https://elasticsearch-cheatsheet.jolicode.com/) - (HTML)
 
 
 ### Git
@@ -104,11 +109,6 @@
 * [Python for Data Science Cheatsheet](https://pydatascience.org/data-science-cheatsheets/) - DataCamp (HTML and Image)
 * [Python Regex Cheatsheet](https://www.debuggex.com/cheatsheet/regex/python) - Debuggex (HTML)
 * [Python WorldWide Cheatsheet](https://cheatography.com/davechild/cheat-sheets/python/) - Cheatography (Python)
-
-
-### Ruby
-
-* [Ruby Cheat Sheet](https://www.codeconquest.com/wp-content/uploads/Ruby-Cheat-Sheet-by-CodeConquestDOTcom.pdf) - CodeConquest.com (PDF)
 
 
 ### SQL
