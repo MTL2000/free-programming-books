@@ -64,11 +64,8 @@
 * [org.apache.commons.io.IOUtils](https://commons.apache.org/proper/commons-io/apidocs/org/apache/commons/io/IOUtils.html)
 * [org.apache.commons.io.FileUtils](https://commons.apache.org/proper/commons-io/apidocs/org/apache/commons/io/FileUtils.html)
 * [org.apache.commons.io.FilenameUtils](https://commons.apache.org/proper/commons-io/apidocs/org/apache/commons/io/FilenameUtils.html)
-
 * [org.apache.commons.lang3.StringUtils](http://commons.apache.org/proper/commons-lang/apidocs/org/apache/commons/lang3/StringUtils.html)
-
-* [org.apache.commons.lang3.ArrayUtils]http://commons.apache.org/proper/commons-lang/apidocs/org/apache/commons/lang3/ArrayUtils.html)
-
+* [org.apache.commons.lang3.ArrayUtils](http://commons.apache.org/proper/commons-lang/apidocs/org/apache/commons/lang3/ArrayUtils.html)
 * [org.apache.commons.lang3.StringEscapeUtils](http://commons.apache.org/proper/commons-lang/apidocs/org/apache/commons/lang3/StringEscapeUtils.html)
 * [org.apache.commons.codec.digest.DigestUtils](https://commons.apache.org/proper/commons-codec/apidocs/org/apache/commons/codec/digest/DigestUtils.html)
 * [org.apache.commons.collections4.CollectionUtils](https://commons.apache.org/proper/commons-collections/apidocs/org/apache/commons/collections4/CollectionUtils.html)
