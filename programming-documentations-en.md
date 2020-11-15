@@ -61,8 +61,22 @@
 
 ### Java
 
-* [CodingBat code practice](http://codingbat.com/java)
+* [org.apache.commons.io.IOUtils](https://commons.apache.org/proper/commons-io/apidocs/org/apache/commons/io/IOUtils.html)
+* [org.apache.commons.io.FileUtils](https://commons.apache.org/proper/commons-io/apidocs/org/apache/commons/io/FileUtils.html)
+* [org.apache.commons.io.FilenameUtils](https://commons.apache.org/proper/commons-io/apidocs/org/apache/commons/io/FilenameUtils.html)
 
+* [org.apache.commons.lang3.StringUtils](http://commons.apache.org/proper/commons-lang/apidocs/org/apache/commons/lang3/StringUtils.html)
+
+* [org.apache.commons.lang3.ArrayUtils]http://commons.apache.org/proper/commons-lang/apidocs/org/apache/commons/lang3/ArrayUtils.html)
+
+* [org.apache.commons.lang3.StringEscapeUtils](http://commons.apache.org/proper/commons-lang/apidocs/org/apache/commons/lang3/StringEscapeUtils.html)
+* [org.apache.commons.codec.digest.DigestUtils](https://commons.apache.org/proper/commons-codec/apidocs/org/apache/commons/codec/digest/DigestUtils.html)
+* [org.apache.commons.collections4.CollectionUtils](https://commons.apache.org/proper/commons-collections/apidocs/org/apache/commons/collections4/CollectionUtils.html)
+* [org.apache.commons.beanutils.BeanUtils](http://commons.apache.org/proper/commons-beanutils/javadocs/v1.9.4/apidocs/index.html)
+* [org.apache.commons.beanutils.PropertyUtils](https://commons.apache.org/proper/commons-beanutils/apidocs/org/apache/commons/beanutils/PropertyUtils.html)
+* [org.apache.http.util.EntityUtils](https://hc.apache.org/httpcomponents-core-ga/httpcore/apidocs/org/apache/http/util/EntityUtils.html)
+* [org.apache.http.client.utils.URLEncodeUtils](https://hc.apache.org/httpcomponents-client-ga/httpclient/apidocs/org/apache/http/client/utils/URLEncodedUtils.html)
+* [org.springframework.util.StringUtils](https://docs.spring.io/spring-framework/docs/current/javadoc-api/org/springframework/util/StringUtils.html)
 
 
 #### Spring
