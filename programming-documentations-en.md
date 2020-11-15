@@ -148,4 +148,6 @@
 ### Dev Tools
 
 * [Code Share Console](https://codeshare.io/)
+* [SoapUI](https://www.soapui.org/)
+* [Postman](https://www.postman.com/)
 
