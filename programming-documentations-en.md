@@ -78,12 +78,15 @@
 
 
 #### Spring
+* [Spring API](https://javadoc.io/doc/org.springframework/spring-core/latest/index.html)
 * [Entity To DTO Mapper](https://www.baeldung.com/entity-to-and-from-dto-for-a-java-spring-application)
 
 #### SpringBoot
 
 #### Swagger
-* [Swagger API](https://swagger.io/docs/)
+* [Swagger Document](https://swagger.io/docs/)
+* [SWagger 2 API](https://www.javadoc.io/doc/io.swagger/swagger-annotations/1.5.20/index.html)
+* [SWagger 3 API](https://javadoc.io/doc/io.swagger.core.v3)
 
 #### Unit Test
 * [JUnit 5](https://github.com/junit-team/junit5)
