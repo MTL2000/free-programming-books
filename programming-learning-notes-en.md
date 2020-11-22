@@ -85,8 +85,10 @@
 
 ##### Spring Cache
 * [Spring Cache](https://docs.spring.io/spring-framework/docs/3.1.x/spring-framework-reference/html/cache.html)
+* [Spring Caching](https://docs.spring.io/spring-boot/docs/2.1.6.RELEASE/reference/html/boot-features-caching.html)
 * [Spring Caching Tutorial](https://examples.javacodegeeks.com/enterprise-java/spring/spring-caching-tutorial/)
 * [Spring Caching Abstraction and Google Guava Cache](https://dzone.com/articles/spring-caching-abstraction-and)
+* [Spring Boot With Caffeine Cache](https://www.javadevjournal.com/spring-boot/spring-boot-with-caffeine-cache/)
 
 ##### Spring Cloud
 
