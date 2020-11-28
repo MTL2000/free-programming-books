@@ -7,6 +7,7 @@
 * [HTML / CSS](#html--css)
   * [Bootstrap](#bootstrap)
 * [Java](#java)
+  * [Blog](#blog)
   * [Spring](#spring)
   * [SpringBoot](#springboot)
   * [Spring JPA](#spring-jpa)
@@ -71,6 +72,37 @@
 
 * [CodingBat code practice](http://codingbat.com/java)
 
+#### Blog
+* [Vlad Mihalcea](https://vladmihalcea.com/)
+* [Adam Bien](https://adambien.blog/roller/abien/)
+* [InfoQ Java](https://www.infoq.com/java/)
+* [Baeldung](https://www.baeldung.com/)
+* [Spring Blog](https://spring.io/blog)
+* [Java Code Geeks](https://www.javacodegeeks.com/category/java)
+* [Javarevisited](https://javarevisited.blogspot.com/#axzz6f86uJD3k)
+* [JOOQ](https://blog.jooq.org/category/java/)
+* [Thoughts on Java](https://thorben-janssen.com/)
+* [A Java Geek](https://blog.frankel.ch/#gsc.tab=0)
+
+* [Java World](https://www.infoworld.com/category/java/)
+* [mkyong](https://mkyong.com/)
+* [Vogella | Java](https://www.vogella.com/tutorials/java.html)
+* [Java Specialists Newsletter](https://www.javaspecialists.eu/)
+* [Java Papers | Java](https://javapapers.com/category/java/)
+* [Stephen Colebourne's blog](https://blog.joda.org/)
+* [ProgramCreek](https://www.programcreek.com/)
+* [Petri Kainulainen](https://www.petrikainulainen.net/blog/)
+* [NoBlogDefFound](https://www.nurkiewicz.com/)
+* [CodeFX](https://nipafx.dev/)
+* [Jenkov Tutorials](http://tutorials.jenkov.com/)
+* [How to do in Java](https://howtodoinjava.com/)
+* [Java2S | Java](http://www.java2s.com/Tutorials/Java/)
+* [The Pragmatic Integrator by Pascal Alma ](https://pragmaticintegrator.wordpress.com/)
+* [Inspired by Actual Events](https://marxsoftware.blogspot.com/)
+* [The Java Source](https://blogs.oracle.com/java/)
+* [Codedependent](http://graphics-geek.blogspot.com/)
+* [Vanilla #Java](http://vanillajava.blogspot.com/)
+* [JGuru](http://www.jguru.com/)
 
 
 #### Spring
