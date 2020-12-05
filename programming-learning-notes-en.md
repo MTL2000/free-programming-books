@@ -118,6 +118,8 @@
 ##### Spring JPA
 * [@OneToMany relationship with JPA and Hibernate](https://medium.com/@rajibrath20/the-best-way-to-map-a-onetomany-relationship-with-jpa-and-hibernate-dbbf6dba00d3)
 * [The best way to map a @OneToMany relationship with JPA and Hibernate](https://vladmihalcea.com/the-best-way-to-map-a-onetomany-association-with-jpa-and-hibernate/)
+* [One-to-One Relationship in JPA](https://www.baeldung.com/jpa-one-to-one)
+* [Many-To-Many Relationship in JPA](https://www.baeldung.com/jpa-many-to-many)
 
 ##### Spring Cache
 * [Spring Cache](https://docs.spring.io/spring-framework/docs/3.1.x/spring-framework-reference/html/cache.html)
