@@ -41,6 +41,7 @@
 ### Elasticsearch
 
 * [elastic.co](https://www.elastic.co/guide/index.html)
+* [Query DSL](https://www.elastic.co/guide/en/elasticsearch/reference/current/query-dsl.html)
 
 
 ### Git
