@@ -10,6 +10,7 @@
   * [Blog](#blog)
   * [Spring](#spring)
   * [SpringBoot](#springboot)
+  * [SpringBoot Microservice](#springboot-microservice)
   * [Spring JPA](#spring-jpa)
   * [Spring Cache](#spring-cache)
   * [Spring Cloud](#spring-cloud)
@@ -114,6 +115,10 @@
 
 
 ##### SpringBoot
+
+##### SpringBoot Microservice
+* [Microservices with Spring Boot – Building Microservices Application Using Spring Boot](https://www.javadevjournal.com/spring-boot/microservices-with-spring-boot/)
+* [Building Microservices with Spring Boot](https://blog.scottlogic.com/2019/10/31/building-microservices-with-spring-boot.html)
 
 ##### Spring JPA
 * [@OneToMany relationship with JPA and Hibernate](https://medium.com/@rajibrath20/the-best-way-to-map-a-onetomany-relationship-with-jpa-and-hibernate-dbbf6dba00d3)
