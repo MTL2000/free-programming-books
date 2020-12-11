@@ -142,10 +142,13 @@
 ##### Unit Test
 * [JUnit 5 Tutorial](https://howtodoinjava.com/junit-5-tutorial/)
 * [Writing Tests with JUnit 5](https://blog.jetbrains.com/idea/2020/09/writing-tests-with-junit-5/)
-* [How to test a controller in Spring Boot](https://thepracticaldeveloper.com/guide-spring-boot-controller-tests/)
-* [Spring rest controller unit test](https://howtodoinjava.com/spring-boot2/testing/rest-controller-unit-test-example/)
+* [The JUnit 5 Jupiter API](https://developer.ibm.com/languages/java/tutorials/j-introducing-junit5-part1-jupiter-api/)
+* [Mockito Tutorial](https://www.journaldev.com/21872/mockito-spy-partial-mock)
+* [Unit tests with Mockito - Tutoriall](https://www.vogella.com/tutorials/Mockito/article.html)
 * [Testing Best Practices for Java + Spring Apps](https://medium.com/personal-capital-tech-blog/testing-best-practices-for-java-spring-apps-762e9fde39ec)
 * [Testing with Spring Boot](https://livebook.manning.com/book/spring-boot-in-action/chapter-4/)
+* [How to test a controller in Spring Boot](https://thepracticaldeveloper.com/guide-spring-boot-controller-tests/)
+* [Spring rest controller unit test](https://howtodoinjava.com/spring-boot2/testing/rest-controller-unit-test-example/)
 
 
 ### JavaScript
