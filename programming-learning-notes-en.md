@@ -125,6 +125,7 @@
 * [The best way to map a @OneToMany relationship with JPA and Hibernate](https://vladmihalcea.com/the-best-way-to-map-a-onetomany-association-with-jpa-and-hibernate/)
 * [One-to-One Relationship in JPA](https://www.baeldung.com/jpa-one-to-one)
 * [Many-To-Many Relationship in JPA](https://www.baeldung.com/jpa-many-to-many)
+* [How to map a PostgreSQL ARRAY to a Java List with JPA and Hibernate](https://vladmihalcea.com/postgresql-array-java-list/) - @vlad_mihalcea
 
 ##### Spring Cache
 * [Spring Cache](https://docs.spring.io/spring-framework/docs/3.1.x/spring-framework-reference/html/cache.html)
@@ -200,9 +201,5 @@
 
 ### SQL
 
-* [Intro to SQL: Querying and managing data](https://www.khanacademy.org/computing/computer-programming/sql) - Khan Academy
-* [SQL at Codecademy](https://www.codecademy.com/courses/learn-sql)
-* [SQL Tutorial](https://www.w3schools.com/sql) - W3Schools
-* [SQLBolt](http://sqlbolt.com)
-
+* [How to map a PostgreSQL ARRAY to a Java List with JPA and Hibernate](https://vladmihalcea.com/postgresql-array-java-list/) - @vlad_mihalcea
 
